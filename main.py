@@ -8,7 +8,7 @@ import kagglehub
 
 path = kagglehub.dataset_download("moltean/fruits")
 
-print("Path to dataset files:", path)
+print("Path to dataset files:", path)  
 
 
 
